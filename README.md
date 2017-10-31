@@ -1,2 +1,1 @@
-# RESULTS
-RESULTS
+# QuizResults
